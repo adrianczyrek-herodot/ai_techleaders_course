@@ -1,0 +1,8 @@
+{
+  "name": "ai-techleaders-course",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
